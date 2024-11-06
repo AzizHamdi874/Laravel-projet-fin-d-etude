@@ -1,0 +1,28 @@
+.custom-green-bg {
+    background-color: green; /* You can adjust the shade of green as needed */
+}
+
+.navbar-logo.custom-green-bg {
+    background-color: green !important;
+}
+
+
+
+.table-custom {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+.table-custom th, .table-custom td {
+    padding: 15px;
+}
+
+.table-custom th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.table-custom tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
